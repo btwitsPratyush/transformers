@@ -318,7 +318,7 @@ Expand each modality below to see a few example models for various use cases.
 
 </details>
 
-## Citation
+## Citation:-
 
 We now have a [paper](https://www.aclweb.org/anthology/2020.emnlp-demos.6/) you can cite for the 🤗 Transformers library:
 ```bibtex
